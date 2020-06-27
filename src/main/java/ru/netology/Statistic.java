@@ -24,4 +24,3 @@ public class Statistic {
             return average;
         }
     }
-
